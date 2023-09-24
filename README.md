@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrankyCranton
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning the godot game engine
+- 🌱 I’m currently learning the Godot game engine's peer-to-peer networking systems.
 - 📫 How to reach me: crantonbogsmorehooversil@gmail.com
 
 <!---
